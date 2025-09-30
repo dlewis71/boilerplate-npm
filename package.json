@@ -1,7 +1,7 @@
 {
   "name": "fcc-learn-npm-package-json",
   "author": "Derrick Lewis",
-  "description": "A basic Node.js project using Express, part of the freeCodeCamp curriculum for learning npm and package.json.",
+  "description": "Make money",
   "dependencies": {
     "express": "^4.14.0",
     "npm": "^11.6.1"
