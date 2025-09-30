@@ -1,16 +1,17 @@
 {
-	"name": "fcc-learn-npm-package-json",
-	"author": "Derrick Lewis",
-	"dependencies": {
-		"express": "^4.14.0",
-		"npm": "^11.6.1"
-	},
-	"main": "server.js",
-	"scripts": {
-		"start": "node server.js"
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
-	}
+  "name": "fcc-learn-npm-package-json",
+  "author": "Derrick Lewis",
+  "description": "A basic Node.js project using Express, part of the freeCodeCamp curriculum for learning npm and package.json.",
+  "dependencies": {
+    "express": "^4.14.0",
+    "npm": "^11.6.1"
+  },
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
+  }
 }
