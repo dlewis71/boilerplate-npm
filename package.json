@@ -2,9 +2,20 @@
   "name": "fcc-learn-npm-package-json",
   "author": "Derrick Lewis",
   "description": "Make money",
+  "license": "Def",
+  "version": "2.2.0",
+    "keywords": [
+    "make-money",
+    "earn",
+    "income",
+    "profit",
+    "finance",
+    "business",
+    "investment",
+    "freecodecamp"
+  ],
   "dependencies": {
-    "express": "^4.14.0",
-    "npm": "^11.6.1"
+    "express": "^4.14.0"
   },
   "main": "server.js",
   "scripts": {
