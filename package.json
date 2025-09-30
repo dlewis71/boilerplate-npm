@@ -1,7 +1,9 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author": "Derrick Lewis",
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.14.0",
+		"npm": "^11.6.1"
 	},
 	"main": "server.js",
 	"scripts": {
